@@ -119,9 +119,3 @@ Grad-CAM heatmaps confirm the model attends to clinically correct regions:
 - Selvaraju et al. (2017) — [Grad-CAM](https://arxiv.org/abs/1610.02391), ICCV 2017
 - Goodfellow et al. (2016) — [Deep Learning](http://www.deeplearningbook.org), MIT Press
 - Nickparvar (2021) — [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset), Kaggle
-
----
-
-## 📄 License
-
-This project is for academic purposes only. The dataset is subject to its original Kaggle license terms.
