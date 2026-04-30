@@ -1,9 +1,9 @@
-🧠 Brain Tumor Classification Using Deep Learning (EfficientNetB0)
+#🧠 Brain Tumor Classification Using Deep Learning (EfficientNetB0)
 
 Automated multi-class brain tumor classification from MRI images using transfer learning, with Grad-CAM explainability.
 
-Authors: Hasan Akhtars & Nawaf Barebood
-Course Project — April 2026
+**Authors: Hasan Akhtars & Nawaf Barebood**
+**Course Project — April 2026**
 
 📌 Overview
 This project develops a deep learning pipeline to classify brain MRI scans into four categories:
